@@ -1,0 +1,5 @@
+---
+title: Pacotes como bens públicos
+author: Daniel Herszenhut
+format: revealjs
+---
